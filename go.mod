@@ -1,4 +1,4 @@
-module precode_test.go
+module precode
 
 go 1.23.2
 
